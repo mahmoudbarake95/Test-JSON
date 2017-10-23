@@ -1,24 +1,30 @@
 [{
   "Track": "Power",
-  "Track Chair": "Person1" 
+  "Track Chair": "Person1",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 },
 {
   "Track": "Electronics",
-  "Track Chair": "Person2" 
+  "Track Chair": "Person2",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 },
 {
   "Track": "Circuits",
-  "Track Chair": "Person3" 
+  "Track Chair": "Person3",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 },
 {
   "Track": "Waves",
-  "Track Chair": "Person4" 
+  "Track Chair": "Person4",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 },
 {
   "Track": "Electro Magnetic Fields",
-  "Track Chair": "Person5" 
+  "Track Chair": "Person5",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 },
 {
   "Track": "Micorprocessors",
-  "Track Chair": "Person6" 
+  "Track Chair": "Person6",
+  "Delete Button": "<input type='submit' value='Delete' class='btn btn-primary delete-track-button'>"
 }]
